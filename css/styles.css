@@ -3,3 +3,15 @@ body {
     font-family: monospace;
     font-size: 14.5px;
 }
+
+.recipe-page {
+    background-color: pink;
+    font-size: 18px;
+    height:160px;
+    width: 320px;
+    font-weight: bold;
+    
+    border-width: 2.5px;
+    border-color: black;
+    border-style: solid;
+}
